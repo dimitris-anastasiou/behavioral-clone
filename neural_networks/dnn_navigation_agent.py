@@ -1,4 +1,4 @@
-# DNN Position Predictor
+# DNN Navigation Agent
 
 import torch
 import torch.nn as nn

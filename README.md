@@ -10,7 +10,7 @@ To develop and enhance a navigation agent capable of maneuvering through a 2D ma
     - `posbc_robot.py`: Implementation of the `POSBCRobot` class for low-dimensional data.
     - `rgbbc_robot.py`: Implementation of the `RGBBCRobot` class for RGB images.
   - **neural_networks/**: Contains Python files for the neural network models.
-    - `dnn_position_predictor.py`: Implementation of the DNN model for positional data.
+    - `dnn_navigation_agent.py`: Implementation of the DNN model for positional data.
     - `cnn_navigation_agent_single_map.py`: Implementation of the CNN model for single map images.
     - `cnn_navigation_agent_multi_map.py`: Implementation of the CNN model for multiple map images.
 

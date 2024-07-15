@@ -13,12 +13,6 @@ To develop and enhance a navigation agent capable of maneuvering through a 2D ma
     - `dnn_position_predictor.py`: Implementation of the DNN model for positional data.
     - `cnn_navigation_agent_single_map.py`: Implementation of the CNN model for single map images.
     - `cnn_navigation_agent_multi_map.py`: Implementation of the CNN model for multiple map images.
-- **results/**: Contains evaluation videos and performance metrics plots.
-  - **evaluation_videos/**: Contains videos of the evaluation results.
-    - `classical_ml_evaluation.mp4`: Evaluation video for the classical ML models.
-    - `nn_evaluation_part1.mp4`: Evaluation video for the DNN model.
-    - `nn_evaluation_part2.mp4`: Evaluation video for the CNN model with a single map.
-    - `nn_evaluation_part3.mp4`: Evaluation video for the CNN model with multiple maps.
 
 ## Setup Instructions
 1. Clone the repository:

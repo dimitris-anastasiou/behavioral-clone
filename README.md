@@ -20,7 +20,7 @@ To develop and enhance a navigation agent capable of maneuvering through a 2D ma
 
 ## Setup Instructions
 1. Clone the repository:
-   ```console
+   ```sh
    git clone https://github.com/dimitris-anastasiou/behavioral-clone.git
     ```
 2. Navigate to the project direcotyr:

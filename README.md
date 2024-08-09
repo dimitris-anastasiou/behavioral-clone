@@ -3,7 +3,9 @@
 ## Objective
 To develop and enhance a navigation agent capable of maneuvering through a 2D maze to reach a goal location while avoiding obstacles, using both classical machine learning and neural network techniques.
 
-[![YouTube Shorts](https://img.youtube.com/vi/7HpZpNuYIjc/0.jpg)](https://www.youtube.com/shorts/7HpZpNuYIjc)
+| Classical ML | DNN | CNN | CNN + Multiple Maps |
+|---|---|---|---|
+| [![Classical ML](https://img.youtube.com/vi/Qi38LrMN7qs/0.jpg)](https://www.youtube.com/shorts/Qi38LrMN7qs) | [![DNN](https://img.youtube.com/vi/L8zW2Mudvso/0.jpg)](https://www.youtube.com/shorts/L8zW2Mudvso) | [![CNN](https://img.youtube.com/vi/ls1H8Qys06A/0.jpg)](https://www.youtube.com/shorts/ls1H8Qys06A) | [![CNN + Multiple Maps](https://img.youtube.com/vi/7HpZpNuYIjc/0.jpg)](https://www.youtube.com/shorts/7HpZpNuYIjc) |
 
 ## Project Structure
 - **src/**: Contains source code for classical machine learning and neural network models.
